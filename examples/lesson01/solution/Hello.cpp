@@ -41,7 +41,7 @@ int main(int argc, char* argv[])
     setUpTracer(argv[1]);
 
     //add check 2nd argument is string or not and make it a class
-    std::cout << "Hello " << argv[2] << "\n";
+    cout << "Hello " << argv[2] << "\n";
 
     tracedFunction();
     // Not stricly necessary to close tracer, but might flush any buffered
