@@ -40,5 +40,5 @@ To install the library:
 
 ### Screenshots
 
-[command-line-input]
-[Jaeger-UI]
+![command-line-input](https://github.com/dexter816/jaeger-hello-world/blob/master/Screenshots/Screenshot%20from%202019-04-03%2003-15-00.png)
+![Jaeger-UI](https://github.com/dexter816/jaeger-hello-world/blob/master/Screenshots/Screenshot%20from%202019-04-03%2003-15-30.png)
